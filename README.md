@@ -1,5 +1,8 @@
 # RRR-Sly-Snake-Adventure
-Welcome to the Sly Snake Adventure Game! In this game players take control of a snake as they face challenges and obstacles, in their quest to achieve the highest score possible.
+Sly Snake Adventure Game
+Problem Statement : Challenges your creative minds to conceptualize and develop unique toys and games.
+Problem Statement Number: [CBP23]
+Problem Title: Sly Snake Adventure Game
 
 Game Description;
 The Sly Snake Adventure Game puts a fun twist on the snake game. Players guide a snake through a grid based board maneuvering around obstacles collecting food to grow longer and avoiding collisions with walls or themselves. As the game progresses it speeds up adding a layer of challenge.
